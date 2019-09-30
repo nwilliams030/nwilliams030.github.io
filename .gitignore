@@ -1,1 +1,6 @@
+.DS_Store
+_old_posts/
 _site/
+_drafts/
+.ruby-version
+.Ulysses-favorites.plist
