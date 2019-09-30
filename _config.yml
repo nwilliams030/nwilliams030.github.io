@@ -22,7 +22,6 @@ description: Projects, blog posts, and other musings
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - My Twitter: "twitter.com/nwilliams030"
     - What I'm reading: "https://getpocket.com/@0GTA4g71d832aT07f0p6b8bp82Tnd0GOYzdub8R306O6fuY70xf88yuplfYug201"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
