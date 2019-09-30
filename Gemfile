@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
+ruby RUBY_VERSION
 
-gem "github-pages", '197', group: :jekyll_plugins
+gem 'jekyll', '3.6.0'
 
-# enable tzinfo-data for local build
-# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-gem 'jekyll-paginate'
+group :jekyll_plugins do
+  gem 'jekyll-livereload'
+end
